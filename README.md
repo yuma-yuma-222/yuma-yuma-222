@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **yuma-yuma-222/yuma-yuma-222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,6 +17,7 @@ Here are some ideas to get you started:
 ## About Me
 ネットワークセキュリティを学ぶ学生です．
 日常の不便を解決するツールやWebアプリを作るのが好きです．
+あとはobsidianが好きです．
 
 ## Skills
 - Python
