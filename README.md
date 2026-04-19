@@ -21,9 +21,8 @@ Here are some ideas to get you started:
 
 ## Skills
 - Python
-- FastAPI
+  - FastAPI
 - Shell Script
-- nmap
 
 ## Projects
 - [FastAPI-Project-Generator](https://github.com/yuma-yuma-222/FastAPI-Project-Generator)  FastAPIプロジェクトの構成を自動生成するシェルスクリプト 
