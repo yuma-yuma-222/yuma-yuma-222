@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## About Me
 ネットワークセキュリティを学ぶ学生です．
 日常の不便を解決するツールやWebアプリを作るのが好きです．
-obsidianをずっと使っています．
+あとは，obsidianが好きです．
 
 ## Skills
 - Python
