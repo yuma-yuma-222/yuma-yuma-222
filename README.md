@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 -->
 # Hi there 👋 Yuma です
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuma-yuma-222&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## About Me
 ネットワークセキュリティを学ぶ学生です．
 日常の不便を解決するツールやWebアプリを作るのが好きです．
