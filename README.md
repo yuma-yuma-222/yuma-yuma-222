@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 -->
 # Hi there 👋 Yuma です
 
-<p align="left">
-  <img alt="Top Langs" height="195px" src="https://xxxx.vercel.app/api/top-langs/?username=yuma-yuma-222&layout=donut&show_icons=true&theme=radical" />
-</p> 
-
 ## About Me
 ネットワークセキュリティを学ぶ学生です．
 日常の不便を解決するツールやWebアプリを作るのが好きです．
