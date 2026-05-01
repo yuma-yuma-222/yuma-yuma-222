@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there 👋 Yuma です
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mozumasu&layout=donut)
+![Stats](https://github-readme-stats.vercel.app/api?username=mozumasu)
 
 ## About Me
 ネットワークセキュリティを学ぶ学生です．
