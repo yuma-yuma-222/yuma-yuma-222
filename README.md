@@ -14,12 +14,13 @@ Here are some ideas to get you started:
 -->
 # Hi there 👋 Yuma です
 
-![Top Languages](https://github-readme-stats-seven-navy-13.vercel.app/api/top-langs/?username=yuma-yuma-222&layout=compact)
-
 ## About Me
 ネットワークセキュリティを学ぶ学生です．
 日常の不便を解決するツールやWebアプリを作るのが好きです．
 あとは，obsidianが好きです．
+
+## Most Used Languages
+![Top Languages](https://github-readme-stats-seven-navy-13.vercel.app/api/top-langs/?username=yuma-yuma-222&layout=compact)
 
 ## Skills
 - Python
