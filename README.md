@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there 👋 Yuma です
+# こんにちは. Yuma です.
 
 ## About Me
 ネットワークセキュリティを学ぶ学生です．
