@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 - [FastAPI-Project-Generator](https://github.com/yuma-yuma-222/FastAPI-Project-Generator)  FastAPIプロジェクトの構成を自動生成するシェルスクリプト 
 - [Stay-In-House](https://github.com/yuma-yuma-222/stay-in-house)  ネットワークスキャンで家族の在宅・外出をリアルタイムで確認するツール 
 - [train-s-time](https://github.com/yuma-yuma-222/train-s-time)  予定時刻を入力するだけで乗るべき電車を自動で提案するツール 
-- [Cat-feeding-manager](https://github.com/yuma-yuma-222/maruino)  猫の給餌時間を家族で共有・管理するWebアプリ
+- [maruino](https://github.com/yuma-yuma-222/maruino)  猫の給餌時間を家族で共有・管理するWebアプリ
 
 ![snake](https://raw.githubusercontent.com/yuma-yuma-222/yuma-yuma-222/output/github-contribution-grid-snake-dark.svg)
